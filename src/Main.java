@@ -192,7 +192,7 @@ public class Main {
 
             } catch (Exception e) {
                 e.printStackTrace();
-                // Continue to next item even if an error occurs
+                // Continue  to next item even if an error occurs
             }
         }
     }
