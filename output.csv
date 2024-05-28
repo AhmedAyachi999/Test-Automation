@@ -1,0 +1,183 @@
+Menu Item,Color
+GRH | 1,rgba(73, 80, 87, 1)
+GRH | 1 no
+Personne | 102,rgba(73, 80, 87, 1)
+Personne | 102 no
+Personne | 12001,
+Personne | 12001 no
+Liste par Grade | 12002,
+Liste par Grade | 12002 no
+Liste par Position | 12003,
+Liste par Position | 12003 no
+Liste par Statut | 12004,
+Liste par Statut | 12004 no
+Liste par Fonction | 12005,
+Liste par Fonction | 12005 no
+Liste par Emploi | 12006,
+Liste par Emploi | 12006 no
+Liste par Affectation | 12007,
+Liste par Affectation | 12007 no
+Liste par Modèle | 12008,
+Liste par Modèle | 12008 no
+Liste par Diplôme | 12009,
+Liste par Diplôme | 12009 no
+Liste par Catégorie de Personnel et par Echelon | 12010,
+Liste par Catégorie de Personnel et par Echelon | 12010 no
+Liste par Catégorie Socio Professionnelle | 12011,
+Liste par Catégorie Socio Professionnelle | 12011 no
+Liste des Indemnités Fixes Par Personne | 12012,
+Liste des Indemnités Fixes Par Personne | 12012 no
+Historique | 12018,
+Historique | 12018 no
+Consultation des fiches du personnel | 12020,
+Consultation des fiches du personnel | 12020 no
+Nombre d’employés Mois/Mois -1 | 12023,
+Nombre d’employés Mois/Mois -1 | 12023 no
+Charges par Section Analytique | 12024,
+Charges par Section Analytique | 12024 no
+Recrutement | 103,rgba(73, 80, 87, 1)
+Recrutement | 103 no
+Besoin Recrutement | 13001,
+Besoin Recrutement | 13001 no
+Besoin Cumulé Par Affectation | 13002,
+Besoin Cumulé Par Affectation | 13002 no
+Besoin Cumulé Par Grade | 13003,
+Besoin Cumulé Par Grade | 13003 no
+Concours | 13004,
+Concours | 13004 no
+Candidats | 13005,
+Candidats | 13005 no
+Participants au Concours | 13006,
+Participants au Concours | 13006 no
+Candidats Eligibles au Concours | 13007,
+Candidats Eligibles au Concours | 13007 no
+Saisie Notes des candidats | 13008,
+Saisie Notes des candidats | 13008 no
+Candidats Retenus des Concours | 13009,
+Candidats Retenus des Concours | 13009 no
+Candidats Admis | 13010,
+Candidats Admis | 13010 no
+Données Statistiques des Participants | 13011,
+Données Statistiques des Participants | 13011 no
+Données Statistiques des Admis | 13012,
+Données Statistiques des Admis | 13012 no
+Contrats | 13013,
+Poste Travail | 13015,
+Poste Travail | 13015 no
+Poste/Personne | 13016,
+Poste/Personne | 13016 no
+Etat des Postes Vacant à une Date | 13017,
+Etat des Postes Vacant à une Date | 13017 no
+Partants à la Retraite | 13018,
+Partants à la Retraite | 13018 no
+Partants par autre que Retraite | 13019,
+Partants par autre que Retraite | 13019 no
+Etat Budgétaire | 13020,
+Etat Budgétaire | 13020 no
+Types Concours | 13021,
+Spécialités | 13022,
+Types de contrats | 13023,
+Motifs Rejets | 13024,
+Voies de Concours | 13025,
+Voies de Concours | 13025 no
+Contrats en instance | 13026,
+Contrats en instance | 13026 no
+Carrière | 104,rgba(73, 80, 87, 1)
+Carrière | 104 no
+Etat des avancements à réaliser | 14001,
+Etat des avancements à réaliser | 14001 no
+Avancement proposé des échelons | 14002,
+Avancement proposé des échelons | 14002 no
+Avancement proposé des échelles | 14003,
+Avancement proposé des échelles | 14003 no
+Avancement proposé des grades | 14004,
+Avancement proposé des grades | 14004 no
+Liste des Avancements Proposés | 14005,
+Liste des Avancements Proposés | 14005 no
+Liste des éligibles aux avancements d'échelon | 14006,
+Liste des éligibles aux avancements d'échelon | 14006 no
+Avancement Echelon | 14007,
+Avancement Echelle | 14008,
+Avancement Echelle | 14008 no
+Avancement Grade | 14009,
+Avancement Grade | 14009 no
+Changement de Fonction | 14010,
+Changement de Fonction | 14010 no
+Changement Statut | 14011,
+Changement Statut | 14011 no
+Changement de Catégorie | 14012,
+Changement de Catégorie | 14012 no
+Changement de Position / Sous Position | 14013,
+Changement de Position / Sous Position | 14013 no
+Changement Affectation | 14014,
+Changement Affectation | 14014 no
+Changement de Nature Service | 14015,
+Changement de Nature Service | 14015 no
+Notes Personnes | 14016,
+Notes Personnes | 14016 no
+Plan Carriere | 14017,
+Plan Carriere | 14017 no
+Rappel | 14018,
+Rappel | 14018 no
+Demande de Retraite | 14019,
+Demande de Retraite | 14019 no
+Pièce Retraite | 14020,
+Pièce Retraite | 14020 no
+Liste des departs à la retraite | 14021,
+Liste des departs à la retraite | 14021 no
+Type Retraite | 14022,
+Situation de carriére à une date | 60044,
+Situation de carriére à une date | 60044 no
+Changements Carriére des Personnes | 60045,
+Changements Carriére des Personnes | 60045 no
+Formation | 105,rgba(73, 80, 87, 1)
+Formation | 105 no
+Demande de Formation | 5002,
+Demande de Formation | 5002 no
+Formation(Simplifié) | 5003,
+Formation(Simplifié) | 5003 no
+Formations | 5004,
+Formations | 5004 no
+Liste par Personne et par Formation | 5005,
+Liste par Personne et par Formation | 5005 no
+Liste des Présences | 5006,
+Liste des Présences | 5006 no
+Types de Formations | 5009,
+Organismes de Formations | 5010,
+Organismes de Formations | 5010 no
+Domaines de Formations | 5011,
+Formateurs | 5012,
+Formateurs | 5012 no
+Motifs Absence de Formation | 5013,
+Type de pièce de formation | 5014,
+Activité de Formation | 5015,
+Thème de Formation | 5016,
+Bilan Pédagogique et Financier | 5017,
+Bilan Pédagogique et Financier | 5017 no
+Total Heure Formation | 5018,
+Total Heure Formation | 5018 no
+Taux de participation à la Formation | 5019,
+Taux de participation à la Formation | 5019 no
+Répartition des employés par nature de formation | 5020,
+Répartition des employés par nature de formation | 5020 no
+Suivi Budget de la Formation | 5021,
+Suivi Budget de la Formation | 5021 no
+Missions | 106,rgba(73, 80, 87, 1)
+Missions | 106 no
+Mission | 6001,
+Mission | 6001 no
+Liste des Missions | 6002,
+Liste des Missions | 6002 no
+Nombres des Missions par Année | 6004,
+Nombres des Missions par Année | 6004 no
+Nombre des bénéficiaires de Mission | 6005,
+Nombre des bénéficiaires de Mission | 6005 no
+Nombre de Mission | 6006,
+Nombre de Mission | 6006 no
+Nombre de Missions par Catégorie Socioprofessionnelle | 6007,
+Nombre de Missions par Catégorie Socioprofessionnelle | 6007 no
+Nombre de Missions par Affectation | 6008,
+Nombre de Missions par Affectation | 6008 no
+Nombre de Missions par Sexe | 6009,
+Nombre de Missions par Sexe | 6009 no
+Types de Mission | 6010,
